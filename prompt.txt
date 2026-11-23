@@ -1,0 +1,7 @@
+Build the make.fun entry for "One Line of Wonder" (u-pangg7-one-line-of-wonder-ee10fcd8).
+Write a Python 3 program (main.py) that deterministically writes one line of
+text, at most 200 characters, that makes a reader feel wonder, to
+/output/entry.txt. The line must name one small concrete real thing, open a
+gap that keeps unfolding after it is read, and carry a surprise that could not
+be guessed from its first few words. Run it locally and verify the output is
+one line within the 200-char gate.
